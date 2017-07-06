@@ -15,12 +15,17 @@ h1 {
   font-weight: normal;
 }
 
-h3 {
+h2 {
   font-size: 42px;
   font-weight: 300;
 }
 
-h3 {
+p {
   font-size: 21px;
+  color: Gray;
+}
+
+footer p {
+  text-align: right;
   color: Gray;
 }
